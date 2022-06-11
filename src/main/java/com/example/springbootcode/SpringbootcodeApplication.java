@@ -8,7 +8,7 @@ public class SpringbootcodeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootcodeApplication.class, args);
-		System.out.println("_____________________---------starting server for spring boot--------------_______________________");
+		System.out.println("_____________________---------starting server for spring --------------_______________________");
 		System.out.println("starting spring boot");
 		
 		
