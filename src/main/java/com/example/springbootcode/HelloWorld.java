@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloWorld {
 	
 	//GET REST API
-	//POST
-	//PUT
-	//DELETE  -----> return JSON response
+	
 	//@ResponseBody-> converts java to json format
 	//@Restcontroller =  @Component + @ResponseBody
 	
