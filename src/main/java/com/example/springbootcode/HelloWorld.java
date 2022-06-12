@@ -20,7 +20,7 @@ public class HelloWorld {
 	@GetMapping("/hello-world")
 	public String helloworld()
 	{
-		return "Hello world java boot";
+		return "Hello world java ";
 	}
 	
 
